@@ -3,10 +3,7 @@ const Experience = () => {
     <div className="Experience">
       <div className="exp">
         <p>
-          <li>
-            2008 - 2012 : Walgreens cashier, Photo specialist, Head photo
-            specialist
-          </li>
+          <li>2006 - 2020 : Regency Cleaners Manager</li>
         </p>
       </div>
       <p>
@@ -16,12 +13,11 @@ const Experience = () => {
         </li>
       </p>
       <p>
-        <li>2013 - 2017 : Rite-Aid Shift Supervisor, Assistant Manager</li>
+        <li>2010 - 2017 : Rite-Aid Shift Supervisor, Assistant Manager</li>
       </p>
       <p>
         <li>
-          2017 - 2021 : Walgreens Shift Supervisor, Assistant manager, Acting
-          General Manager
+          2017 - 2021 : Walgreens Assistant Manager, Acting General Manager
         </li>
       </p>
       <p>
@@ -32,7 +28,7 @@ const Experience = () => {
       </p>
       <p>
         <li>
-          August 2022 - October 2022 : Successful completion of General Assembly
+          June 2022 - August 2022 : Successful completion of General Assembly
           front end web development bootcamp
         </li>
       </p>

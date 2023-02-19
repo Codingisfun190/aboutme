@@ -13,14 +13,51 @@ const Portfolio = () => {
               rel="noreferrer"
             >
               <img
-                src="../MyProjects/aboutme/src/images/Earthtribe-thumbnail.PNG"
-                alt="First project"
+                className="img-fit"
+                src="/images/Earthtribe-thumbnail.PNG"
+                alt="EarthTribe Project"
               />
             </a>
           </div>
-          <div className="box">second project</div>
-          <div className="box">third project</div>
-          <div className="box">forth project</div>
+          <div className="box">
+            <a
+              href="https://codingisfun190.github.io/Marvel_movies/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="img-fit"
+                src="/images/Marvel-thumbnail.PNG"
+                alt="EarthTribe Project"
+              />
+            </a>
+          </div>
+          <div className="box">
+            <a
+              href="https://codingisfun190.github.io/Dots_Project/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="img-fit"
+                src="/images/Dots-thumbnail.PNG"
+                alt="EarthTribe Project"
+              />
+            </a>
+          </div>
+          <div className="box">
+            <a
+              href="https://codingisfun190.github.io/Dots_Project/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img
+                className="img-fit"
+                src="/images/Dots-thumbnail.PNG"
+                alt="EarthTribe Project"
+              />
+            </a>
+          </div>
           <div className="box">fifth project</div>
           <div className="box">sixth project</div>
         </div>
